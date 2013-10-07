@@ -1,0 +1,4 @@
+imagenAsonido
+=============
+
+sonorizar imágen
