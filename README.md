@@ -19,5 +19,5 @@ usando sox
  
  >  sox image.ogg image_at.ogg gain -6
  
- Escuchar <audio controls src="http://jardincosmico.net/sound/unloquer/image_at.ogg" type="audio/ogg"></audio>
-
+ 
+[Escuchar aquí](http://jardincosmico.net/sound/unloquer/image_at.ogg)
