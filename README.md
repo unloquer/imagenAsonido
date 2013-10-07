@@ -2,11 +2,11 @@ imagenAsonido
 =============
 
 
-sonificar esta imágen:
+sonificar esta imagen:
 
 <img src="http://jardincosmico.net/sound/unloquer/IMG_5367.jpg" with=320 height=240>
 
-* cambiar la extensión de la imágen de .jpg a .raw
+* cambiar la extensión de la imagen de .jpg a .raw
 
 * usando sox abrimos la imagen inventando atributos de audio y la grabamos en image.ogg:
 
