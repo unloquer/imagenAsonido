@@ -18,4 +18,6 @@ usando sox
  atenuando para no reventar los parlantes
  
  >  sox image.ogg image_at.ogg gain -6
+ 
+ Escuchar <audio controls src="http://jardincosmico.net/sound/unloquer/image_at.ogg" type="audio/ogg"></audio>
 
