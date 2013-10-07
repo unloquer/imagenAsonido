@@ -1,21 +1,20 @@
 imagenAsonido
 =============
 
-sonorizar imágen
 
 sonificar esta imágen:
 
 <img src="http://jardincosmico.net/sound/unloquer/IMG_5367.jpg" with=320 height=240>
 
-* cambiar la extensión de la imágen a .raw
+* cambiar la extensión de la imágen de .jpg a .raw
 
-usando sox 
+* usando sox abrimos la imagen inventando atributos de audio y la grabamos en image.ogg:
 
  >  sox -r 48000 -b 16 -e unsigned-integer IMG_5367.raw   image.ogg
  
  [Explicación de ese comando aquí](http://explainshell.com/explain?cmd=sox+-r+48000+-b+16+-e+unsigned-integer+IMG_5367.raw+image.ogg+)
  
- atenuando para no reventar los parlantes
+ * Para atenuar un poco la ganancia (volumen) usamos:
  
  >  sox image.ogg image_at.ogg gain -6
  
